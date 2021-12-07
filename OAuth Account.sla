@@ -1,0 +1,58 @@
+{
+    "class_id": "com-snaplogic-snaps-rest-restoauth2account",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "ConnectFasterInc"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "OAuth Account"
+            },
+            "notes": {}
+        },
+        "settings": {
+            "auth_endpoint": {
+                "value": "https://test.com"
+            },
+            "auth_endpoint_config": {
+                "value": []
+            },
+            "autoRefreshToken": {
+                "value": false
+            },
+            "client_id": {
+                "value": "cward@snaplogic.com"
+            },
+            "client_secret": {
+                "fp": "f7c9bca3cdb1d909994d00c87d300e1b5c16ef6881068c031269b72e8ba6d463",
+                "key": "account-cloud-managed-5592aed995315c0d2e1aaeeb-2015-06-30T14:59:59-654446",
+                "sym_iv": "VxWl7aA6unkm/+ZW6xAD9Q==",
+                "sym_key": "CTkx0fxn9X/IqFpLsLCW0XiE5Ur996XrBLuTakoIIV+Yy/MfxZFPRuvfppnR0OMBcD+LLhAszI9oIkImnzcbrTi3iTXZqEbc+QZeVWrzayvbko4IsLRRIcEPCm5Mxxtwwm7eFvshM0PiNdRt45fp7YOoFY2gTsNU9md7NCH4ANVHrgjVUtOZvbVao8VwXJAnONT3wP1m0Y/goZQGHPhWRupiCSns78GUQniFJi7M3yW8Y5Lpf0REXDpiRLCsmtWlTCRDsLtRlYCIIbtqAve11dCeOMH6TtfGrvW8MIiBvRnfq+eEvIwGoSl5+EaqtJnH5br58rOpqUCLRt/El2rBxA==",
+                "value": "KrI6c6xVO4+g4RIYcYGw/A=="
+            },
+            "grant_type": {
+                "value": "authorization_code"
+            },
+            "headerAuth": {
+                "value": false
+            },
+            "sendAsBasicAuth": {
+                "value": false
+            },
+            "sendClientInBody": {
+                "value": false
+            },
+            "token_endpoint": {
+                "value": "https://test.com"
+            },
+            "token_endpoint_config": {
+                "value": []
+            },
+            "username": {
+                "value": ""
+            }
+        },
+        "view_serial": 100
+    }
+}
