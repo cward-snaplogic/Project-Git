@@ -2,7 +2,7 @@
     "class_id": "com-snaplogic-snaps-rest-restoauth2account",
     "class_version": 1,
     "migration_metadata": {
-        "source_org": "ConnectFasterInc"
+        "source_org": "SnapLogic-PS-Team"
     },
     "property_map": {
         "info": {
